@@ -1,0 +1,22 @@
+{
+  "name": "angular-mass-autocomplete",
+  "version": "0.2.4",
+  "main": "massautocomplete.min.js",
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "ignore": [
+    ".gitignore",
+    "package.json"
+  ],
+  "homepage": "https://github.com/ComplyAdvantage/MassAutocomplete",
+  "_release": "0.2.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.2.4",
+    "commit": "bf5185e1b4d9ff2558377bd0b5cc6d41166ea000"
+  },
+  "_source": "https://github.com/ComplyAdvantage/MassAutocomplete.git",
+  "_target": "~0.2.4",
+  "_originalSource": "angular-mass-autocomplete-jw"
+}
